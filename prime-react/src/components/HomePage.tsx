@@ -92,6 +92,7 @@ const HomePage: React.FC = () => {
             />
             <label htmlFor="cities">Select Cities</label>
           </div>
+
           <div className="p-field p-float-label" style={{ marginTop: "2rem" }}>
             <Chips
               id="chips"
